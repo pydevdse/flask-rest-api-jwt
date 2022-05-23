@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "uuid": "f9455b33-46ec-429f-94f4-b0017c69883e",
+        "username": "Test",
+        "password": "sha256$KjmEFc5hqXQ9gnr9$595c18aa5464c313b1eb69fa8807e080f302bd59bc3996c529f019aae8bc5508"
+    },
+    {
+        "id": 1,
+        "uuid": "3af213c5-d949-4837-86a9-2d0cbb02c230",
+        "username": "Test2",
+        "password": "sha256$Nhq1ZX3jTdc8O2pi$2a682c36307d0a784aeabb5c20448b6b645510756b6a65dba4b537d1b99f6221"
+    }
+]
